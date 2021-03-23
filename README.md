@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Fontom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true)](https://github.com/Fontom71/github-readme-stats)
+[![Fontom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=radical)](https://github.com/Fontom71/github-readme-stats)
 <!--
 **Fontom71/Fontom71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
