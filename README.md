@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Fontom's 👋
+##### French student developer in Dijon
 
 ![GitHub Release Date](https://img.shields.io/github/release-date/Fontom71/Fontom71)
 
