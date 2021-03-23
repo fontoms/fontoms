@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-
-[![Fontom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/Fontom71/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71&hide=javascript,html,css,python)](https://github.com/Fontom71/github-readme-stats)
-[![Fontom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fontom71)](https://github.com/Fontom71/github-readme-stats)
+<a href="https://github.com/Fontom71/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=gruvbox" />
+</a>
+<a href="https://github.com/Fontom71/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71&hide=javascript,html,css,python" />
+</a>
+<a href="https://github.com/Fontom71/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fontom71" />
+</a>
 <!--
 **Fontom71/Fontom71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
