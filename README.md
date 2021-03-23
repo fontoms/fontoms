@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Release Date](https://img.shields.io/github/release-date/Fontom71/Fontom71)
+
 <a href="https://github.com/Fontom71/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
