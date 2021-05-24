@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/2UpmrA8zaA" target="blank"><img align="center" src="https://logo-marque.com/wp-content/uploads/2020/11/Discord-Logo.png" alt="https://discord.gg/2UpmrA8zaA" height="100" width="150" /></a>
+<a href="https://discord.gg/2UpmrA8zaA" target="blank"><img align="center" src="https://logo-marque.com/wp-content/uploads/2020/11/Discord-Logo.png" alt="https://discord.gg/2UpmrA8zaA" height="100" width="170" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
