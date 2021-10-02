@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Fontom's</h1>
 <h3 align="center">A passionate developer from France</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" />
-<img src="https://img.shields.io/badge/username-Fontom's-orange" alt="fontom" />
+<img src="https://img.shields.io/badge/Username-Fontom's-orange" alt="fontom" />
 <img src="https://img.shields.io/badge/Discord-%5BD.C.P.J%20--%20S.D.L.C%5D%20Fontom's%238988-blue" alt="discord" /></p>
 
 <h2> About Me</h2>
