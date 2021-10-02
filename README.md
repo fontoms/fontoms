@@ -12,13 +12,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on JavaScript projects or C # applications
+- 🔭 I’m currently working on **JavaScript projects or C # applications**
 
-- 🌱 I’m currently learning the Pascal language and web pages 
+- 🌱 I’m currently learning **the Pascal language and web pages**
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles and News Hacking 
+- 👯 I’m looking to collaborate on **Projects, Tech Articles and News Hacking**
 
-- 💬 Talk to me about Python, C# and always languages that interest me 
+- 💬 Talk to me about **Python, C# and always languages that interest me** 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
