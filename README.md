@@ -1,6 +1,11 @@
   <h1 align="center">Hi 👋, I'm Fontom's</h1>
 <h3 align="center">A passionate developer from France</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" /> </p>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Fontom71.Fontom71)
+
+</p>
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -97,11 +102,7 @@
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Fontom71.Fontom71)
-
-</p>
 <div size='20px'> Hi! My name is Fontom's. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
