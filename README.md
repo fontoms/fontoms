@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Fontom's</h1>
 <h3 align="center">A passionate developer from France</h3>
 <img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" /> 
-<p align="left">
+<p align="center">
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fontom71.Fontom71)
 
