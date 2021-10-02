@@ -1,9 +1,3 @@
-<h1 align="center">Salut je suis Fontom's</h1>
-<h3 align="center">I'm a french developper in Dijon</h3>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <div align="center">
 <img width="100%" height = "250px" src="https://static.wikia.nocookie.net/justdance/images/1/17/Bangarang_map_bkg.png" alt="cover" />
 </div>
