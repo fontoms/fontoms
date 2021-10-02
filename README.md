@@ -3,8 +3,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" />
 <img src="https://visitor-badge.glitch.me/badge?page_id=Fontom71.Fontom71" alt="visitor_fontom71" /></p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Fontom71.Fontom71)
-
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
