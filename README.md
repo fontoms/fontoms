@@ -1,5 +1,6 @@
   <h1 align="center">Hi 👋, I'm Fontom's</h1>
 <h3 align="center">A passionate developer from France</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" /> </p>
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -61,7 +62,7 @@
   
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" /> </p>
+
 
 - 🔭 I’m currently working on **JavaScript projects or C # applications**
 
