@@ -63,7 +63,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71&langs_count=5&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fontom71&show_icons=true&locale=en&layout=compact" />
 </a>
 
 
