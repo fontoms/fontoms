@@ -60,7 +60,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71" />
 </a>
 
 <br>
