@@ -60,10 +60,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fontom71&" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fontom71&theme=dark" />
 </a>
 
 
