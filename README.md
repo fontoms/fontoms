@@ -54,7 +54,7 @@
 
 <h2> My GitHub Stats <img src='https://github.githubassets.com/images/spinners/octocat-spinner-128.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/Fontom71?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/Fontom71?template=classic)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=dark" />
