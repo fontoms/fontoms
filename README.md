@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **JavaScript projects or C# applications**
 
-- 🌱 I’m currently learning **the Pascal language and web pages**
+- 🌱 I’m currently learning **C# and web pages**
 
 - 👯 I’m looking to collaborate on **Projects, Tech Articles and News Hacking**
 
