@@ -49,7 +49,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.github.com/Fontom71'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/Fontom71'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif"/></a> 
 <a href = 'http://fontom.myftp.org/'> <img width = '32px' align= 'center' src="https://icons.iconarchive.com/icons/jozef89/services-flat/256/website-icon.png"/></a>
 
 
