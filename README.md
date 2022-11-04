@@ -72,3 +72,5 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 <br>
+
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" />
