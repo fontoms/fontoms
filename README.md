@@ -54,9 +54,10 @@
 
 
 <h2> My GitHub Stats <img src='https://github.githubassets.com/images/spinners/octocat-spinner-128.gif' width='32px'> </h2>
-
+<a>
 <img src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=dark" />
 <img src="https://github-readme-stats-fontom71.vercel.app/api/top-langs?username=fontom71&theme=dark&langs_count=10&layout=compact&custom_title=Working%20on" />
+</a>
 
 
 ![Metrics](https://metrics.lecoq.io/Fontom71?template=classic&base.header=0&base.activity=0&base.metadata=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FParis&config.display=large)
