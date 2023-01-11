@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Fontom's</h1>
-  <img src="https://discord.c99.nl/widget/theme-2/677154388065910822.png" />
+  <img align="center" src="https://discord.c99.nl/widget/theme-2/677154388065910822.png" />
 <h3 align="center">A passionate developer from France</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" />
 <img src="https://img.shields.io/badge/Username-Fontom's-orange" alt="fontom" />
