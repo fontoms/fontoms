@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fontom's</h1>
-<div align="center">
+<div align="justify-between">
   <img src="https://discord.c99.nl/widget/theme-2/677154388065910822.png" align="center" />
   <img src="https://lanyard.cnrad.dev/api/677154388065910822" align="center" />
 </div>
