@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fontom's</h1>
-<div>
-  <img src="https://discord.c99.nl/widget/theme-2/677154388065910822.png" align="center" />
-  <img src="https://lanyard.cnrad.dev/api/677154388065910822" align="center" />
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/677154388065910822.png" />
+  <img src="https://lanyard.cnrad.dev/api/677154388065910822" />
 </div>
 <h3 align="center">A passionate developer from France</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" />
