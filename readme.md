@@ -65,7 +65,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/fontom71">
-    <img alt="Fontom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fontom71e&show_icons=true&theme=dark&count_private=tru" height="192px" width="49.5%"/>
+    <img alt="Fontom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fontom71&show_icons=true&theme=dark&count_private=tru" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/fontom71">
     <img alt="Fontom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fontom71&theme=dark&langs_count=8&layout=compact&count_private=true" height="192px" width="49.5%"/>
