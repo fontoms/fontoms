@@ -68,7 +68,7 @@
     <img alt="Fontom's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Fontom71&locale=fr&count_private=true&show_icons=true&theme=dark" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/fontom71">
-    <img alt="Fontom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fontom71&locale=fr&theme=dark&langs_count=8&layout=compact&custom_title=Working%20on" height="192px" width="49.5%"/>
+    <img alt="Fontom's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=fontom71&locale=fr&theme=dark&langs_count=8&layout=compact&count_private=true" height="192px" width="49.5%"/>
   </a>
   <br/>
 </a>
