@@ -4,59 +4,60 @@
   <img src="https://lanyard.cnrad.dev/api/677154388065910822" />
 </div>
 <h3 align="center">A passionate developer from France</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" />
-<img src="https://img.shields.io/badge/Username-Fontom's-orange" alt="fontom" />
-<img src="https://img.shields.io/badge/Discord-Fontom's%238999%20|%20fontoms-blue" alt="discord" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fontom71&label=Profile%20views&color=0e75b6&style=flat" alt="fontom71" />
+  <img src="https://img.shields.io/badge/Username-Fontom's-orange" alt="fontom" />
+  <img src="https://img.shields.io/badge/Discord-fontoms-blue" alt="discord" />
+</p>
 
-<h2> About Me</h2>
+<h2>About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
 - 🔭 I’m currently working on **JavaScript projects or C# applications**
 
-- 🌱 I’m currently learning **C# and web pages**
+- 🌱 I’m currently learning **C++ and web pages**
 
 - 👯 I’m looking to collaborate on **Projects, Tech Articles and News Hacking**
 
-- 💬 Talk to me about **Python, C# and always languages that interest me** 
+- 💬 Talk to me about **Python, C++ and always languages that interest me** 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '32px'> </h2>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=arduino&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=blender&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=solidworks&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/solidworks.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=spotify&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spotify.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=youtube&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=xamarin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/xamarin.svg'> </a>
-<a href= https://github.com/Fontom71?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/nextjs.svg'> </a>
+<h2>Skills</h2>
 
+<h3>Web</h3>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.github.com/Fontom71'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://fontom71.github.io/'> <img width = '32px' align= 'center' src="https://icons.iconarchive.com/icons/jozef89/services-flat/256/website-icon.png"/></a>
+![Web](https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,express,nextjs,nginx,php,react,wordpress)
 
+<h3>Backend</h3>
 
-<h2> My GitHub Stats <img src='https://github.githubassets.com/images/spinners/octocat-spinner-128.gif' width='32px'> </h2>
+![Backend](https://skillicons.dev/icons?i=c,cs,cpp,cmake,dotnet,express,java,lua,php,py,r)
+
+<h3>Database</h3>
+
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
+
+<h3>IDE</h3>
+
+![IDE](https://skillicons.dev/icons?i=androidstudio,bash,idea,powershell,visualstudio,vscode)
+
+<h3>Self-hosting</h3>
+
+![Self-hosting](https://skillicons.dev/icons?i=arduino,docker,github,gitlab,heroku,raspberrypi,vercel)
+
+<h3>Software</h3>
+
+![Software](https://skillicons.dev/icons?i=blender,discord,git,linux,postman,ps)
+
+<h3>Others</h3>
+
+![Others](https://skillicons.dev/icons?i=bots,githubactions,md,regex,stackoverflow)
+
+<h2>My links</h2>
+
+[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/Fontom71)
+[![Portfolio](https://skillicons.dev/icons?i=cloudflare)](https://fontom71.github.io)
+
+<h2>My GitHub Stats</h2>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Fontom71&theme=github-dark&border_radius=10&locale=fr&mode=weekly" alt="GitHub Streak" />
