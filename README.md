@@ -75,4 +75,4 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" />
+![Fontom's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fontom71&custom_title=Fontom's%20GitHub%20Activity%20Graph&theme=github-compact)
