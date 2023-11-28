@@ -57,22 +57,19 @@
 
 
 <h2> My GitHub Stats <img src='https://github.githubassets.com/images/spinners/octocat-spinner-128.gif' width='32px'> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=dark" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Fontom71&theme=github-dark&border_radius=10&locale=fr&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
+<a>
+  <a href="https://github.com/fontom71">
+    <img alt="Fontom's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Fontom71&count_private=true&show_icons=true&theme=dark" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/fontom71">
+    <img alt="Fontom's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=fontom71&theme=dark&langs_count=8&layout=compact&custom_title=Working%20on" height="192px" width="49.5%"/>
+  </a>
+  <br/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats-fontom71.vercel.app/api/top-langs?username=fontom71&theme=dark&langs_count=10&layout=compact&custom_title=Working%20on" />
-</a>
-
-
-![Metrics](https://metrics.lecoq.io/Fontom71?template=classic&base.header=0&base.activity=0&base.metadata=0&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FParis&config.display=large)
-
-<br>
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<br>
 
 ![Fontom's Graph](https://github-readme-activity-graph.vercel.app/graph?username=fontom71&custom_title=Fontom's%20GitHub%20Activity%20Graph&theme=github-compact)
