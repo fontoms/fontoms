@@ -24,33 +24,29 @@
 
 <h2>Skills</h2>
 
-<h3>Web</h3>
+<h3>Frontend Development</h3>
 
-![Web](https://skillicons.dev/icons?i=bootstrap,css,html,js,ts,express,nextjs,nginx,php,react,wordpress)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,wordpress)
 
-<h3>Backend</h3>
+<h3>Backend Development</h3>
 
-![Backend](https://skillicons.dev/icons?i=c,cs,cpp,cmake,dotnet,express,java,lua,php,py,r)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,php,cs,cpp,java,lua,py,r)
 
-<h3>Database</h3>
+<h3>DevOps & Self-hosting</h3>
 
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
+![DevOps & Self-hosting](https://skillicons.dev/icons?i=docker,github,gitlab,heroku,nginx,raspberrypi,vercel)
 
-<h3>IDE</h3>
+<h3>Database Management</h3>
 
-![IDE](https://skillicons.dev/icons?i=androidstudio,bash,idea,powershell,visualstudio,vscode)
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 
-<h3>Self-hosting</h3>
+<h3>IDE & Tools</h3>
 
-![Self-hosting](https://skillicons.dev/icons?i=arduino,docker,github,gitlab,heroku,raspberrypi,vercel)
+![IDE & Tools](https://skillicons.dev/icons?i=androidstudio,bash,idea,powershell,visualstudio,vscode,postman,stackoverflow)
 
-<h3>Software</h3>
+<h3>Software & Others</h3>
 
-![Software](https://skillicons.dev/icons?i=blender,discord,git,linux,postman,ps)
-
-<h3>Others</h3>
-
-![Others](https://skillicons.dev/icons?i=bots,githubactions,md,regex,stackoverflow)
+![Software](https://skillicons.dev/icons?i=blender,discord,git,linux,ps,arduino)
 
 <h2>My links</h2>
 
