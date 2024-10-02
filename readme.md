@@ -51,7 +51,7 @@
 
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/fontoms)
 [![Website](https://skillicons.dev/icons?i=cloudflare)](https://fontoms.com)
-<h3><a href="https://www.devcase.me/fontoms">Portfolio</a></h3>
+<h3><a href="https://www.devcase.me/fontoms" target="_blank">Portfolio</a></h3>
 
 <h2>My GitHub Stats</h2>
 <p align="center">
